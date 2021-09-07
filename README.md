@@ -1,12 +1,12 @@
-# Paid400Surya
+# Meer Pro Tools
 
-###### SURYA-BHAI ######
+###### SULTAN-KAKA ######
  
  
-![made in india](https://img.shields.io/badge/MADE%20IN%20-INDIA-green?style=for-the-badge&logo=appveyor)
-![Surya-Bhai](https://img.shields.io/badge/Surya%20-Bhai-green?style=for-the-badge&logo=appveyor)
+![made in Pakistan](https://img.shields.io/badge/MADE%20IN%20-Pakistan-green?style=for-the-badge&logo=appveyor)
+![Sultan-KaKa](https://img.shields.io/badge/Sultan%20-KaKa-green?style=for-the-badge&logo=appveyor)
  
-![GitHub followers](https://img.shields.io/github/followers/Surya-Bhai-Ex?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Mr-Khoso?style=for-the-badge)
  
  
  pkg update && upgrade  
@@ -16,11 +16,11 @@
  pip install requests  
  pip install mechanize  
  pip install futures  
- rm -rf Paid400Surya  
- git clone https://github.com/Surya-Bhai-Ex/Paid400Surya
+ rm -rf Meer-Pro  
+ git clone https://github.com/Mr-Khoso/Meer-Pro
  
- cd Paid400Surya
+ cd Meer-Pro
  
- python2 SuRyA.py
+ python2 Mpro.py
  
-For Approval Message Whatsapp
+For Approval Message me on Whatsapp
