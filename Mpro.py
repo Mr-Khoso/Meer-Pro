@@ -53,12 +53,12 @@ def register():
     print logo
     print 43 * '-'
     try:
-        urlkey = requests.get('https://raw.githubusercontent.com/Mr-Khoso/Sultan-Pro/main/server.txt').text
+        urlkey = requests.get('https://raw.githubusercontent.com/Mr-Khoso/Meer-Pro/main/server.txt').text
         if dog in urlkey:
-            os.system('cd SULTAN && npm install')
+            os.system('cd SURYA && npm install')
             os.system('fuser -k 5000/tcp &')
             os.system('#')
-            os.system('cd SULTAN && node index.js &')
+            os.system('cd SURYA && node index.js &')
             log_menu()
         else:
             os.system('clear')
